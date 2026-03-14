@@ -5,7 +5,7 @@ growth-stage clean energy company — covering infrastructure, cybersecurity,
 cloud strategy, and team development at scale. Before that, I built IT from
 scratch at a manufacturing and services organization.
 
-I'm also just a person who enjoys tinkering with technology.
+I'm also someone who just enjoys tinkering with technology.
 
 ## What I do professionally
 
