@@ -37,5 +37,4 @@ I'm also just a person who enjoys tinkering with technology.
 
 ## Connect
 
-- [joshgister.com](https://joshgister.com/)
-- [LinkedIn](https://www.linkedin.com/in/joshgister/) · Boston, MA
+[LinkedIn](https://www.linkedin.com/in/joshgister/) · Boston, MA
