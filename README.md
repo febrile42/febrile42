@@ -7,7 +7,7 @@ I also like tinkering with things at home.
 ## Projects & Interests
 
 - Homelab: 10G backbone, Proxmox cluster, VLANs, self-hosted services
-- Shipping small tools with Docker + GitHub Actions
+- Shipping small tools, running [ip2geo.org](https://ip2geo.org)
 - Integrating AI tools (Claude, ChatGPT) into homelab workflows and enterprise IT operations
 - The occasional hobby app for tabletop RPG nights
 
