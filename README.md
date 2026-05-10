@@ -5,8 +5,8 @@
 I also like tinkering with things at home.
 
 ## Projects & Interests
-- **Maintainer**, [Umami widget for Homarr](https://homarr.dev/docs/integrations/umami/) — Umami analytics surfaced in a self-hosted dashboard
-- **Operator**, [ip2geo.org](https://ip2geo.org) — IP geolocation service, 8 years running
+- **Maintain:** [Umami widget for Homarr](https://homarr.dev/docs/integrations/umami/) — Umami analytics surfaced in a self-hosted dashboard
+- **Operate:** [ip2geo.org](https://ip2geo.org) — IP geolocation service, 8 years running
 - Homelab: 10G backbone, Proxmox cluster, VLANs, self-hosted services
 - Integrating AI tools (Claude, ChatGPT) into homelab workflows and enterprise IT operations
 - The occasional hobby app for tabletop RPG nights
